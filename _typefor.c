@@ -11,6 +11,8 @@ int (*_typefor(const char *argu, int argb))(va_list)
 	s_type types[] = {
 		{"c", p_char},
 		{"s", p_string},
+		{"d", p_int},
+		{"i", p_int},
 		{NULL, NULL},
 	};
 	int i;
