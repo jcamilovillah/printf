@@ -27,18 +27,18 @@ _Below, additional information that we had to take into account in order to deve
 
  1. [Secrets of pritnf](https://www.cypress.com/file/54761/download)
  2. man or help: 
-  - printf: man 3 printf
-  - write: man 2 write
-  - malloc: man 3 malloc
-  - free: man 3 free
-  - va_start: man 3 va_start
-  - va_end: man 3 va_end
-  - va_copy: man 3 va_copy
-  - va_arg: man 3 va_arg
+    - printf: man 3 printf
+    - write: man 2 write
+    - malloc: man 3 malloc
+    - free: man 3 free
+    - va_start: man 3 va_start
+    - va_end: man 3 va_end
+    - va_copy: man 3 va_copy
+    - va_arg: man 3 va_arg
 
 ## Wiki 📖
 
-You can access the **manual** to see precisely the functionalities.
+You can access the **[manual](./man_3_printf)** to see precisely the functionalities.
 
 
 ## Authors ✒️
