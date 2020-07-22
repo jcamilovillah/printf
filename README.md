@@ -1,4 +1,4 @@
-<p align="center"> <img src="blob:https://web.whatsapp.com/20c402cb-3cea-443b-819e-fd3644326da2" width="350"/>
+<p align="center"> <img src="blob:https://web.whatsapp.com/20c402cb-3cea-443b-819e-fd3644326da2" width="1000"/>
 
 _In this project we will develop the activity **0x11. C - printf** from **Holberton School**. In which we had to develop a printf with all its characteristics; including type of format, length modifiers, etc._
 
@@ -25,7 +25,7 @@ _Below, additional information that we had to take into account in order to deve
 
 ### Resources 📋
 
- 1. [Secrets of pritnf] (https://www.cypress.com/file/54761/download)
+ 1. [Secrets of pritnf](https://www.cypress.com/file/54761/download)
  2. man or help: 
   - printf: man 3 printf
   - write: man 2 write
@@ -43,5 +43,5 @@ You can access the **manual** to see precisely the functionalities.
 
 ## Authors ✒️
 
-* **Juan Camilo Villa H.** - <a href="https://twitter.com/jcamilovillah"><img src="http://pngimg.com/uploads/twitter/twitter_PNG28.png" width="50"></a> <a href="https://www.instagram.com/jcamilovillah/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="50"></a>
-* **Santiago Pinzón D.** - <a href="https://twitter.com/santiagopinzonD"><img src="http://pngimg.com/uploads/twitter/twitter_PNG28.png" width="50"></a> <a href="https://www.instagram.com/santiagopinzond/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="50"></a>
+* **Juan Camilo Villa H.** - <a href="https://twitter.com/jcamilovillah"><img src="http://pngimg.com/uploads/twitter/twitter_PNG28.png" width="40"></a> <a href="https://www.instagram.com/jcamilovillah/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="30"></a>
+* **Santiago Pinzón D.** - <a href="https://twitter.com/santiagopinzonD"><img src="http://pngimg.com/uploads/twitter/twitter_PNG28.png" width="40"></a> <a href="https://www.instagram.com/santiagopinzond/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="30"></a>
