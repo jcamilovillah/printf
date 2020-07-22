@@ -22,5 +22,7 @@ int _printf(const char *format, ...);
 int (*_typefor(const char *argu, int argb))(va_list);
 int p_char(va_list valist);
 int p_string(va_list valist);
+int p_int(va_list valist);
+int count_num(unsigned int n);
 
 #endif
