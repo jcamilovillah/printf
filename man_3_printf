@@ -1,0 +1,63 @@
+.TH man 3 "22 JULY 2020" "1.0" "_printf man page"
+.SH NAME
+.B _Printf
+- formatted output conversion.
+.SH SYNOPSIS
+.BI _printf
+.IR FORMAT [ARGUMENT]
+
+.BI _printf
+.IR OPTION
+
+.SH DESCRIPTION
+Printf is a special function because it receives a variable number of parameters. The first parameter is fixed and is the format string. It includes text to be printed literally and marks to be replaced by text that is obtained from the additional parameters. Therefore, printf is called with as many parameters as there are marks in the format string plus one (the format string itself).
+
+.SH RETURN VALUE
+If successful return, it returns the number of characters printed (excluding the null byte used to end output to strings).
+
+.SH Format
+% indicates a form to be written.
+.SH Flags
+.SH %c
+Prints a character.
+.SH %i
+Print a single integer.
+.SH %d
+Print a decimal number.
+.SH %s
+Print a string.
+.SH %b
+Print a binary.
+.SH %r
+Print reverse.
+.SH %R
+Print ROT13.
+.SH %U
+Print an unsigned number.
+.SH %o.
+Print Octal
+.SH %x.
+Print hexadecimal
+.SH %p.
+Print address.
+.SH EXAMPLES
+
+_printf("THI IS %s", "_PRINTF");
+
+.PP
+THIS IS _PRINTF
+
+.SH BUGS
+when you have two percentages %% one is printed
+
+.SH SEE ALSO
+printf(3).
+
+.SH AUTHORS
+
+.NM
+
+.PP 
+Santiago Pinzon Dominguez - https://github.com/santiagoPinzonD
+.PP
+Juan Camilo Villa - https://github.com/jcamilovillah
