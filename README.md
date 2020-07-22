@@ -1,4 +1,4 @@
-<p align="center"> <img src="blob:https://web.whatsapp.com/20c402cb-3cea-443b-819e-fd3644326da2" width="1000"/>
+<p align="center"> <img src="https://pbs.twimg.com/media/EdjJuQdXgAAZldN?format=jpg&name=large" width="1000"/>
 
 _In this project we will develop the activity **0x11. C - printf** from **Holberton School**. In which we had to develop a printf with all its characteristics; including type of format, length modifiers, etc._
 
