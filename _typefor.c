@@ -13,6 +13,7 @@ int (*_typefor(const char *argu, int argb))(va_list)
 		{"s", p_string},
 		{"d", p_int},
 		{"i", p_int},
+		{"R", print_R},
 		{NULL, NULL},
 	};
 	int i;
