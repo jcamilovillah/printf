@@ -14,6 +14,7 @@ int (*_typefor(const char *argu, int argb))(va_list)
 		{"d", p_int},
 		{"i", p_int},
 		{"R", print_R},
+		{"b", p_binary},
 		{NULL, NULL},
 	};
 	int i;
