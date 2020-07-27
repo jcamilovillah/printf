@@ -26,5 +26,6 @@ int p_int(va_list valist);
 int count_num(unsigned int n);
 int p_rot13(char *s);
 int print_R(va_list valist);
+int p_binary(va_list valist, int num);
 
 #endif
