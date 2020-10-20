@@ -65,5 +65,31 @@ You can access the **[manual](./man_3_printf)** to see precisely the functionali
 
 ## Authors ✒️
 
-* **Juan Camilo Villa H.** - <a href="https://twitter.com/jcamilovillah"><img src="http://pngimg.com/uploads/twitter/twitter_PNG28.png" width="40"></a> <a href="https://www.instagram.com/jcamilovillah/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="30"></a>
-* **Santiago Pinzón D.** - <a href="https://twitter.com/santiagopinzonD"><img src="http://pngimg.com/uploads/twitter/twitter_PNG28.png" width="40"></a> <a href="https://www.instagram.com/santiagopinzond/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="30"></a>
+<p align="left">
+    <h3 align="left"> Santiago Pinzón D. </h3>
+      <p align="left">
+	   </a>
+		<p align="left">
+        <a href="https://twitter.com/santiagopinzonD" target="_blank">
+            <img alt="twitter_page" src="https://github.com/gedafu/readme-template/blob/master/images/twitter.png" style="float: center; margin-right: 10px" height="50" width="50">
+        </a>
+        <a href="https://www.linkedin.com/in/santiago-pinzon-dominguez-a53305163/" target="_blank">
+            <img alt="linkedin_page" src="https://github.com/gedafu/readme-template/blob/master/images/linkedin.png" style="float: center; margin-right: 10px" height="50"  width="50">
+        </a>
+        <a href="https://medium.com/@santiagopinzon456" target="_blank">
+            <img alt="medium_page" src="https://github.com/gedafu/readme-template/blob/master/images/medium.png" style="float: center; margin-right: 10px" height="50" width="50">
+			</a>
+			<h3 align="left">Juan Camilo Villa H. </h3>
+      		<p align="left">
+	   		</a>
+			<p align="left">
+        <a href="https://twitter.com/jcamilovillah" target="_blank">
+            <img alt="twitter_page" src="https://github.com/gedafu/readme-template/blob/master/images/twitter.png" style="float: center; margin-right: 10px" height="50" width="50">
+        </a>
+        <a href="https://www.linkedin.com/in/jcamilovillah/" target="_blank">
+            <img alt="linkedin_page" src="https://github.com/gedafu/readme-template/blob/master/images/linkedin.png" style="float: center; margin-right: 10px" height="50"  width="50">
+        </a>
+        <a href="https://medium.com/@juancamilovilla" target="_blank">
+            <img alt="medium_page" src="https://github.com/gedafu/readme-template/blob/master/images/medium.png" style="float: center; margin-right: 10px" height="50" width="50">
+			 </a>
+</p>
